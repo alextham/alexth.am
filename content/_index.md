@@ -1,14 +1,12 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
-title: "Home"
+title: "Alex Tham"
+date: 2022-06-26T00:39:58+08:00
 ---
 
-Welcome to **Cupper**: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project. Here are some of its features:
+Hello, welcome to my personal website.
 
-{{< ticks >}}
-* Screen reader and keyboard accessible
-* Responsive
-* Numerous shortcodes
-* Toggleable dark theme
-* Toggleable table of contents per blog post
-{{< /ticks >}}
+This is where I jot down my [thoughts](/post) and keep track of some of the [projects](/project) I'm embarking on. 
+
+If you've [gone to this site by mistake](https://www.youtube.com/watch?v=idxVez86Zgc), then here's a comic for you:
+
+<img src="xkcd_daily.png" class="center">
