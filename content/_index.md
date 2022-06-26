@@ -9,7 +9,8 @@ This is where I jot down my [thoughts](/post) and keep track of some of the [pro
 
 If you've [gone to this site by mistake](https://www.youtube.com/watch?v=idxVez86Zgc), then here's a comic for you:
 
-<div id="xkcd">
-     <img src="xkcd_daily.png"
+<div>
+     <img id="xkcd"
+          src="xkcd_daily.png"
           alt="Daily XKCD strip">
 </div>
