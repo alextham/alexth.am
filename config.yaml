@@ -47,7 +47,7 @@ menu:
       url: /post/
       weight: 2
     - name: Projects
-      url: /project/
+      url: /post/projects/
       weight: 3
     - name: Tags
       url: /tags/
