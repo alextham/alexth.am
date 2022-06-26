@@ -1,3 +1,3 @@
 ---
-title: Post/Projects
+title: Projects
 ---
